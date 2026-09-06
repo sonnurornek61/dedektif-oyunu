@@ -1,1 +1,73 @@
-# dedektif-oyunu
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Detective: Codename Truth - Gizlilik Politikası</title>
+    <style>
+        body { font-family: Arial, sans-serif; line-height: 1.6; margin: 20px; padding: 20px; color: #333; max-width: 800px; }
+        h1, h2, h3 { color: #1a1a1a; }
+        hr { border: 0; height: 1px; background: #ccc; margin: 20px 0; }
+        .contact { background-color: #f9f9f9; padding: 10px; border-left: 4px solid #007bff; }
+    </style>
+</head>
+<body>
+
+    <h1>GİZLİLİK POLİTİKASI (PRIVACY POLICY)</h1>
+    <p><strong>Uygulama Adı:</strong> Detective: Codename Truth</p>
+    <p><strong>Son Güncelleme:</strong> 22 Ağustos 2026</p>
+
+    <hr>
+
+    <h2>1. TÜRKÇE</h2>
+    <p>Bu gizlilik politikası, <strong>Detective: Codename Truth</strong> ("Uygulama") mobil uygulamasını kullandığınızda bilgilerinizin nasıl işlendiğini açıklar.</p>
+    
+    <h3>a) Kişisel Verilerin Toplanması ve Kullanımı</h3>
+    <p>Uygulamamız kullanıcılarından ad, soyad, e-posta adresi, telefon numarası veya konum gibi <strong>hiçbir kişisel veri toplamamaktadır</strong>. Herhangi bir üyelik veya kayıt sistemi bulunmamaktadır.</p>
+
+    <h3>b) Ödemeler ve Finansal İşlemler</h3>
+    <p>Uygulamamız ücretli bir oyun olup, tüm satın alma ve ödeme işlemleri <strong>Google Play Faturalandırma Sistemi (Google Play Billing System)</strong> üzerinden güvenli bir şekilde gerçekleştirilmektedir. Tarafımızca kredi kartı veya herhangi bir finansal bilginiz doğrudan saklanmaz veya işlenmez.</p>
+
+    <h3>c) Verilerin Yerel Olarak Saklanması (Room Veritabanı)</h3>
+    <p>Oyun içerisindeki ilerlemeniz (çözülen vakalar, kazanılan yıldızlar, rütbe puanları ve dil tercihleri), tamamen cihazınızın yerel hafızasında saklanır. Bu veriler harici bir sunucuya aktarılmaz ve tarafımızca erişilemez.</p>
+
+    <h3>d) Üçüncü Taraf Hizmetleri</h3>
+    <p>Uygulamamız içerisinde kullanıcıyı takip eden veya veri toplayan üçüncü taraf analiz, reklam veya izleme araçları kullanılmamaktadır.</p>
+
+    <h3>e) Çocukların Gizliliği (13+ Yaş Sınırı)</h3>
+    <p>Uygulamamız 13 yaş ve üzerindeki kullanıcılara yöneliktir. 13 yaşın altındaki çocuklardan bilerek herhangi bir kişisel veri toplamıyoruz.</p>
+
+    <h3>f) İletişim</h3>
+    <div class="contact">
+        Gizlilik politikamızla ilgili herhangi bir sorunuz olursa bizimle e-posta yoluyla iletişime geçebilirsiniz:<br>
+        <strong>E-posta:</strong> sonnurornek61@gmail.com
+    </div>
+
+    <hr>
+
+    <h2>2. ENGLISH</h2>
+    <p>This privacy policy explains how your information is handled when you use the <strong>Detective: Codename Truth</strong> ("Application") mobile app.</p>
+
+    <h3>a) Collection and Use of Personal Data</h3>
+    <p>Our application <strong>does not collect any personal data</strong> from users, such as name, email address, phone number, or location. There is no user registration or account creation required.</p>
+
+    <h3>b) Payments and Financial Transactions</h3>
+    <p>Our application is a paid game, and all purchase and payment transactions are securely processed through the <strong>Google Play Billing System</strong>. We do not directly store or process your credit card or any other financial information.</p>
+
+    <h3>c) Local Data Storage (Room Database)</h3>
+    <p>Your in-game progress (cleared cases, earned stars, rank points, and user language preferences) is stored entirely on your device's local memory. This data is never transmitted to external servers and cannot be accessed by us.</p>
+
+    <h3>d) Third-Party Services</h3>
+    <p>Our application does not integrate third-party analytics, tracking, or advertising SDKs that monitor user behavior or harvest data.</p>
+
+    <h3>e) Children's Privacy (13+ Age Limit)</h3>
+    <p>Our application is intended for users aged 13 and older. We do not knowingly collect personal data from children under the age of 13.</p>
+
+    <h3>f) Contact Us</h3>
+    <div class="contact">
+        If you have any questions regarding this Privacy Policy, please contact us via email:<br>
+        <strong>Email:</strong> sonnurornek61@gmail.com
+    </div>
+
+</body>
+</html>
